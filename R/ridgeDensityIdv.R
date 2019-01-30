@@ -2,10 +2,10 @@
 #'
 #' \code{ridgeDensityIdv} A ridge plot show the VOI density distribution by groups
 #' It is written for supplying value to be specified in the boxplot.
-#' The boxplot value is calculated by the \link[normr]{densityQualtile}.
+#' The boxplot value is calculated by the \link[normr]{densityQuantile}.
 #'
 #' @param data A dateframe with var "psutype" and "psuname".
-#' @param dfBoxplot A dataframe contain value calcualted from \link[normr]{densityQualtile}..
+#' @param dfBoxplot A dataframe contain value calcualted from \link[normr]{densityQuantile}..
 #' @param dv Variable of interest to be calculated.
 #' @return A plot show the VOI density ridge and boxplot with specified value
 #' @keywords plot
