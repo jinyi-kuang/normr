@@ -11,9 +11,9 @@ densityQuartile(data, dv, bandwidth = 1, geotype = "Urban")
 
 \item{dv}{Variable of interest to be calculated.}
 
-\item{bandwidth}{Default =1.}
+\item{bandwidth}{see \link[stat]{density} bw.}
 
-\item{geotype}{Default = "Ubran" can use factor lable of "psutype" variable.}
+\item{geotype}{Use factor lable of "psutype" variable.}
 }
 \value{
 A martix contrains value of VOI at the qualtile of density.

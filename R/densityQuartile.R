@@ -10,8 +10,8 @@
 #'
 #' @param data A dataset with var "psutype" and "psuname".
 #' @param dv Variable of interest to be calculated.
-#' @param bandwidth Default =1.
-#' @param geotype Default = "Ubran" can use factor lable of "psutype" variable.
+#' @param bandwidth see \link[stat]{density} bw.
+#' @param geotype Use factor lable of "psutype" variable.
 #' @return A martix contrains value of VOI at the qualtile of density.
 #' @keywords density 
 
