@@ -11,7 +11,7 @@ ridgeDensityPsu(data, dfBoxplot, dv,
 \arguments{
 \item{data}{A dateframe with var "psutype" and "psuname".}
 
-\item{dfBoxplot}{A dataframe contain value calcualted from \link[normr]{densityQualtile}..}
+\item{dfBoxplot}{A dataframe contain value calcualted from \link[normr]{densityQuantile}..}
 
 \item{dv}{Variable of interest to be calculated.}
 }
@@ -21,6 +21,6 @@ A plot show the VOI density ridge and boxplot with specified value
 \description{
 \code{ridgeDensityPsu} A ridge plot show the VOI density distribution by groups
 It is written for supplying value to be specified in the boxplot.
-The boxplot value is calculated by the \link[normr]{densityQualtile}.
+The boxplot value is calculated by the \link[normr]{densityQuantile}.
 }
 \keyword{plot}
