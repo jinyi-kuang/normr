@@ -1,0 +1,10 @@
+Package: normr
+Title: Functions for PennSoNG BMGF Project
+Version: 0.0.0.9000
+Authors@R: person("Jinyi", "Kuang", email = "jkuang000@gmail.com", role = c("aut", "cre"))
+Description: This pkg contains functions used in BMGF-India data analysis and plot generation.
+Depends: R (>= 3.5.2)
+License: PennSoNG
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
