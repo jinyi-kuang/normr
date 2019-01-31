@@ -1,6 +1,6 @@
-#' pie.plot a var by group in df
+#' PiePlot a var by group in df
 #'
-#' \code{pie.plot} take the categorical factor variables output a ggplot pie chart by category.
+#' \code{PiePlot} take the categorical factor variables output a ggplot pie chart by category.
 #'
 #' This function is built upon ggplot2 pie chart function.
 
