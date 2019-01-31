@@ -1,6 +1,6 @@
 #' Value of VOI at the Quantile of Its Density Distribution
 #'
-#' \code{densityQuantile} calculate value of VOI at the quantile of density.
+#' \code{DensityQuantile} calculate value of VOI at the quantile of density.
 #' It is written for supplying value to be specified in the boxplot.
 #' The boxplot can be combined with density plot.
 #' The calculation following 3 steps:
@@ -15,7 +15,7 @@
 #' @return A martix contrains value of VOI at the qualtile of density.
 #' @keywords density 
 
-densityQuantile <- function(data, dv , bandwidth=1, geotype = "Urban") {
+DensityQuantile <- function(data, dv , bandwidth=1, geotype = "Urban") {
 
   # quote variable
   require("dplyr")
