@@ -13,7 +13,7 @@
 
 normr stands for norm R package. 
 
-The goal of normr is to gather the functions of data analysis and plot used in BMGF India Project. 
+The goal of normr is to faciliatate data analysis and plot for publication. 
 
 The benefit to have the pkg includes: 
 
