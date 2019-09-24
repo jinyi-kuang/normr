@@ -3,7 +3,7 @@
 <img src="img/ps-header.jpeg" align="right" />
 
 # normr
-> A function package for Penn Social Norms Group BMGF India project.
+> A function package for Penn Social Norms Group LENNS India project.
 
 [![Version](https://img.shields.io/badge/version-0.1-brightgreen.svg?style=shields)](https://shields.io/#/)
 [![Build Status](https://img.shields.io/badge/build_statue-undergoing-yellow.svg?style=shields)](https://shields.io/#/)
