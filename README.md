@@ -1,6 +1,6 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-<img src="img/ps-header.jpeg" align="right" />
+<img src="img/sticker.jpeg" align="right" />
 
 # normr
 > A package for analysing data related to norms.
