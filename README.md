@@ -1,9 +1,9 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-<img src="img/ps-header.jpeg" align="right" />
+<img src="img/normr-sticker.png" align="right" />
 
 # normr
-> A function package for Penn Social Norms Group LENNS India project.
+> A package for analysing data related to norms.
 
 [![Version](https://img.shields.io/badge/version-0.1-brightgreen.svg?style=shields)](https://shields.io/#/)
 [![Build Status](https://img.shields.io/badge/build_statue-undergoing-yellow.svg?style=shields)](https://shields.io/#/)
@@ -13,13 +13,14 @@
 
 normr stands for norm R package. 
 
-The goal of normr is to faciliatate data analysis and plot for publication. 
+The goal of normr is to facilitate data analysis and plot. 
 
-The benefit to have the pkg includes: 
+The benefit of having the pkg includes: 
 
 1. reducing amount of codes and prone errors 
 
-2. collabrative data analysis - make sure everyone is on the same page
+2. collaborative data analysis - make sure everyone is on the same page
+
 
 
 
@@ -34,11 +35,8 @@ devtools::install_github("jinyikuang000/normr")
 
 ## Authors
 
-- [Jinyi Kuang](https://twitter.com/jinyikuang) – jkuang000@gmail.com
+- [Jinyi Kuang](https://www.jinyikuang.com) – jkuang000@gmail.com
 
-- Erik Thulin
-
-- Alex Shpnev
 
 
 ## License
