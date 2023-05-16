@@ -4,8 +4,12 @@
 \alias{MarginPlot}
 \title{A margin plot show the VOI density distribution of a individual measure by groups}
 \usage{
-MarginPlot(dfMargin, group = NULL, ylabel = "Expected Probability",
-  xlabel = "Level of voi")
+MarginPlot(
+  dfMargin,
+  group = NULL,
+  ylabel = "Expected Probability",
+  xlabel = "Level of voi"
+)
 }
 \arguments{
 \item{dfMargin}{A dateframe with margin value from \link[normr]{AvgMargin} dataframe.}
