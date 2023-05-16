@@ -29,19 +29,18 @@ The benefit of having the pkg includes:
 Install the latest development version (on Github) via devtools:
 
 ```sh
-devtools::install_github("jinyikuang000/normr")
+devtools::install_github("jinyi-kuang/normr")
 ```
 
 
 ## Authors
 
-- [Jinyi Kuang](https://www.jinyikuang.com) – jkuang000@gmail.com
-
+- [Jinyi Kuang](https://www.jinyikuang.com) – jinyikuang1@gmail.com
 
 
 ## License
 
-Distributed under the PennSoNG license. See ``LICENSE`` for more information.
+See ``LICENSE`` for more information.
 
 
 ## Contributing
@@ -49,7 +48,7 @@ Distributed under the PennSoNG license. See ``LICENSE`` for more information.
 Contributions are always welcome!
 
 Please follow the following steps:
-1. Fork it (<https://github.com/jinyikuang000/normr/fork>)
+1. Fork it (<https://github.com/jinyi-kuang/normr/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
